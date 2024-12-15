@@ -14,7 +14,7 @@ This project focuses on solving a complex classification problem by applying adv
 
 - **Dataset Name:** Occupancy Estimation Dataset
 - **Features:**
-  - Sensor data: temperature, light, sound, CO2 levels, PIR motion sensors, etc.
+  - Sensor data: temperature, light, sound, CO2 levels, etc.
 - **Target:** Room occupancy count (4 unique classes: 0, 1, 2, 3).
 - **Dataset Size:** 10,000+ samples with 10+ features.
 
